@@ -1,0 +1,104 @@
+.headbar {
+   background-color: #006aa6;
+   width: 100%;
+   height: 60px;
+   padding: 0 20px;
+   
+}
+
+.headsearch.form-control {
+    background-color: #00588a;
+}
+
+body {
+    background-color: #00324e; 
+}
+
+.dcardlogo {
+    margin: 15px 20px 0px 0px;
+    width: auto;
+    height: 35px ;
+}
+
+.nav {
+    height: 80px ;
+}
+
+.leftnav {
+    height: 80px;
+    padding: 80px 0px;
+    width: 135px;
+}
+
+#midnav {
+    background: white;
+    margin: 60px;
+    padding: 40px 0px;
+}
+
+#rightnav {
+    margin: 0px;
+    padding: 80px 25px;
+}
+
+/*#left_full {
+    background: #4c6f83;
+} */
+
+.top_bar a {
+    color: white;
+    
+}
+
+iframe {
+    height: auto;
+    width: auto;
+}
+
+.input-group.add-on {
+    height: 30px;
+    margin: 8px;
+}
+
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+}
+
+.navbar-form {
+    width: auto;
+    padding-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    border: 0px; 
+    box-shadow: none;
+}
+
+.nav-pills>li.active>a {
+    background-color: #4c6f83;
+}
+
+/*********************************/
+.article_head {
+    color: #222277;
+    font-size: : 30px;
+}
+.article_img {
+    height: 50px;
+    width: auto;
+
+    position: relative;
+    margin-top: 50px;
+}
+.article_content {
+    /*background: #cecece;
+    border-bottom:solid 1px #cecece;*/
+    position: relative;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.input-group-btn:last-child>.btn {
+    background-color: #006aa6;
+}
